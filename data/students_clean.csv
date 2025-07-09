@@ -18,7 +18,6 @@ student_id,age,gpa,gender,major,year
 17,16,2.78,F,physics,junior
 18,14,2.2,N,english,freshman
 19,18,3.11,M,physics,senior
-20,16,2.48,M,,junior
 21,16,2.81,M,biology,junior
 22,15,2.25,M,economics,sophomore
 23,14,1.68,M,biology,freshman
@@ -49,7 +48,6 @@ student_id,age,gpa,gender,major,year
 48,18,2.84,M,computer scien,senior
 49,17,2.57,F,computer science,senior
 50,17,2.65,M,art,senior
-51,17,3.0,M,,senior
 52,14,,M,music,freshman
 53,15,2.21,F,english,sophomore
 54,16,2.92,M,computer science,junior
@@ -64,7 +62,6 @@ student_id,age,gpa,gender,major,year
 63,15,2.41,M,chemistry,sophomore
 64,18,3.26,M,physics,senior
 65,16,2.45,F,biology,junior
-66,15,1.94,M,,sophomore
 67,18,3.22,F,music,senior
 68,15,2.17,M,art,sophomore
 69,14,2.06,M,biology,freshman
@@ -80,7 +77,6 @@ student_id,age,gpa,gender,major,year
 79,16,2.97,F,economics,junior
 80,17,2.6,F,art,senior
 81,18,3.04,M,art,senior
-82,16,2.37,M,,junior
 83,14,1.9,F,economics,freshman
 84,18,2.86,M,economics,senior
 85,17,,M,physics,senior
@@ -89,7 +85,6 @@ student_id,age,gpa,gender,major,year
 88,15,2.05,F,history,sophomore
 89,17,2.98,F,mathematics,senior
 90,18,3.41,F,music,senior
-91,16,3.1,M,,junior
 92,18,3.93,M,chemistry,senior
 93,18,3.3,F,english,senior
 94,15,2.05,F,economics,sophomore
