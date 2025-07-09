@@ -1,3 +1,5 @@
+# README
+
 This was a project to practice data cleaning and visualization. It utilizes matplotlib, seaborn, and pandas to conduct the experiment. 
 
 Set up the environmnet by cloning the repo and then downloading the necessary requirements from environment.txt. 
