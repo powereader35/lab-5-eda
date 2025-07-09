@@ -1,6 +1,11 @@
 import pytest
 import pandas as pd
+
+import sys
+import os
+
 from src.plot_utils import plot_hist
+
 import matplotlib as plt
 from matplotlib import axes
 
