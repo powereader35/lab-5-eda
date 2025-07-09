@@ -1,0 +1,1 @@
+This was a project to practice data cleaning and visualization. It utilizes matplotlib, seaborn, and pandas to conduct the experiment. 
